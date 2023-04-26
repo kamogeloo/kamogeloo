@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I am a a front-end developer/game designer(Unity)/3D technical artist(Blender)/Graphic designer😁
+- 🌱 I am a a front-end developer|game designer(Unity)|3D technical artist(Blender)|Graphic designer😁
 - 
 - 📫 You can email me on kamogelomafaesa7@gmail.com if you're looking to collaborate or if you just want to say Hi.
 
