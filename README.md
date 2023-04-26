@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @kamogeloo aka Kamogelo Mafaesa.
-- 👀 I’m interested in making cool projects using code.
-- 🌱 I’m currently learning web development, focusing mostly on front-end.
-- 💞️ I’m looking to collaborate on web related projects.
-- 📫 You can email me on kamogelomafaesa7@gmail.com if you are interested in working with me.
+**- 👋 Hi there! I’m Kamo**.
+
+
+
+- 🌱 I am a a front-end developer/game designer(Unity)/3D technical artist(Blender)/Graphic designer😁
+- 
+- 📫 You can email me on kamogelomafaesa7@gmail.com if you're looking to collaborate or if you just want to say Hi.
 
 <!---
 kamogeloo/kamogeloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
